@@ -1,4 +1,4 @@
-# UAH. GIST. MUTRAFF. B-ENV: Basic working environment for researchers and students
+# B-ENV, Basic working environment for researchers and students
 
 This is a reference working environment where you can create your developments using:
 * python virtual environments
